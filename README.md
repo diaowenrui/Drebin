@@ -1,5 +1,5 @@
 # Drebin
-This repository contains our implementation of the paper(DREBIN: Effective and Explainable Detection
+This repository contains our implementation of the paper (DREBIN: Effective and Explainable Detection
 of Android Malware in Your Pocket).
 ## How to run this program?
 ### step 1:
